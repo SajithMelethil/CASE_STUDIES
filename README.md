@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajith M</h1>
-<h3 align="center">A passionate College Graduate loving Data Science and Data Analysis</h3>
+<h3 align="center">A passionate College Graduate loving Data Science and Data Analysis and this my Case Studies section</h3>
 
 - 🌱 I’m currently learning **Data Science and Data Analysis**
 
